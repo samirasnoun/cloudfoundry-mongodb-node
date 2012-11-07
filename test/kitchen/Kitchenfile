@@ -1,0 +1,3 @@
+cookbook "cloudfoundry-mongodb-service" do
+  runtimes []
+end
